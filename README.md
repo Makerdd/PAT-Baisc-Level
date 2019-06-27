@@ -5,7 +5,7 @@ PAT乙级测试点遇到情况总结，希望大家用精炼的语言把自己�
 <br>
 如果感觉在github里补充较麻烦，也可以在协作文档中补充，我会同步到github处。
 <br>
-链接：<a href="https://www.jianshu.com/u/1f5ac0cf6a8b" target="_blank">协作文档</a>
+链接：<a href="https://yiqixie.com/d/home/fcACe6xZ2aroPxFQrQZ05Cw32" target="_blank">协作文档</a>
 
 题号|题目|测试点问题补充
 -|-|-
